@@ -10,4 +10,4 @@ Search recent commands (reverse search):
 
 List directory sizes in current folder:
 
-`du -sh *`
+`du -sh *` or sorted: `du -sh * | sort -rh` 
