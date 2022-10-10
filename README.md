@@ -1,2 +1,2 @@
-# cheatsheets
+# Cheatsheets
 Miscellanous cheatsheets, scripts, etc
